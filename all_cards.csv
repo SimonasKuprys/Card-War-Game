@@ -1,53 +1,53 @@
-face,suit,value
-ace,spades,13
-king,spades,12
-queen,spades,11
-jack,spades,10
-ten,spades,9
-nine,spades,8
-eight,spades,7
-seven,spades,6
-six,spades,5
-five,spades,4
-four,spades,3
-three,spades,2
-two,spades,1
-ace,clubs,13
-king,clubs,12
-queen,clubs,11
-jack,clubs,10
-ten,clubs,9
-nine,clubs,8
-eight,clubs,7
-seven,clubs,6
-six,clubs,5
-five,clubs,4
-four,clubs,3
-three,clubs,2
-two,clubs,1
-ace,diamonds,13
-king,diamonds,12
-queen,diamonds,11
-jack,diamonds,10
-ten,diamonds,9
-nine,diamonds,8
-eight,diamonds,7
-seven,diamonds,6
-six,diamonds,5
-five,diamonds,4
-four,diamonds,3
-three,diamonds,2
-two,diamonds,1
-ace,hearts,13
-king,hearts,12
-queen,hearts,11
-jack,hearts,10
-ten,hearts,9
-nine,hearts,8
-eight,hearts,7
-seven,hearts,6
-six,hearts,5
-five,hearts,4
-four,hearts,3
-three,hearts,2
-two,hearts,1
+card,value
+"ace of spades",13
+"king of spades",12
+"queen of spades",11
+"jack of spades",10
+"ten of spades",9
+"nine of spades",8
+"eight of spades",7
+"seven of spades",6
+"six of spades",5
+"five of spades",4
+"four of spades",3
+"three of spades",2
+"two of spades",1
+"ace of clubs",13
+"king of clubs",12
+"queen of clubs",11
+"jack of clubs",10
+"ten of clubs",9
+"nine of clubs",8
+"eight of clubs",7
+"seven of clubs",6
+"six of clubs",5
+"five of clubs",4
+"four of clubs",3
+"three of clubs",2
+"two of clubs",1
+"ace of diamonds",13
+"king of diamonds",12
+"queen of diamonds",11
+"jack of diamonds",10
+"ten of diamonds",9
+"nine of diamonds",8
+"eight of diamonds",7
+"seven of diamonds",6
+"six of diamonds",5
+"five of diamonds",4
+"four of diamonds",3
+"three of diamonds",2
+"two of diamonds",1
+"ace of hearts",13
+"king of hearts",12
+"queen of hearts",11
+"jack of hearts",10
+"ten of hearts",9
+"nine of hearts",8
+"eight of hearts",7
+"seven of hearts",6
+"six of hearts",5
+"five of hearts",4
+"four of hearts",3
+"three of hearts",2
+"two of hearts",1
