@@ -2,6 +2,7 @@ Childrens cards game.
 
 Requirements of program.
 * Program should read deck of cards from file.
+* Deck needs to be initialized in a random order.
 * It should have objects like player.
 * One player should hold half of the cards deck.
 * Player have to draw cards from their deck and place it on table.
